@@ -1,19 +1,28 @@
-# Álgebra I — Verano de 2017
+# Álgebra I
 
-## Prácticas
+Verano 2017
 
-- [Práctica 1](Practica1-V2017.pdf)
-- [Práctica 2](Practica2-V2017.pdf)
-- [Práctica 3](Practica3-V2017.pdf)
-- [Práctica 4](Practica4-V2017.pdf)
-- [Práctica 5](Practica5-V2017.pdf)
-- [Práctica 6](Practica6-V2017.pdf)
-- [Práctica 7](Practica7-V2017.pdf)
+Programa\
+\
 
-## Apuntes y notas
+### Novedades
 
-- [Notas de Ariel Pacetti y Matías Graña](notas-alg1.pdf)
+- IMPORTANTE: Para el segundo recuperatorio tenemos el aula de Magna del Pabellón I de 13 a 17 hs. Llegar temprano así no perdemos tiempo.
+- La entrega de notas del primer recuperatorio será el miércoles a las 17 hs en las mesas del departamento de matemática. También daremos consultas para el segundo recuperatorio en ese mismo horario.
+- La entrega de notas del segundo parcial será de la siguiente forma:
+  Los que aprobaron el primer parcial pueden buscar la nota a las 18 hs en la puerta del aula magna del pabellón II. Los que tienen que recuperar el primer parcial, pueden retirarlo después de entregar el recuperatorio.
+- Está el horario y el aula para el recuperatorio del primer parcial.
+- Está el horario y el aula para el segundo parcial.
+- Las clases teóricas y prácticas de la materia
+  comienzan el lunes 30 de enero.
 
-## Página original
+\
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/verano2017/algebra_I)
+### Horario y aulas
+
+\
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Práctica 1 | Lu - Ma - Ju - Vi: 16 a 19:15 | [Montero Diego,](mailto:dmontero@dm.uba.ar)  [Saucedo Matías Aula 9, Pab 1. |](mailto:msaucedo@dm.uba.ar) |
+| Teórica  1 | Lu - Ma - Ju - Vi: 19:15 a 21:30 | [Jorge Guccione](mailto:vander@dm.uba.ar) | Aula 9, Pab 1. |
